@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Marson/AndroidStudioProjects/ShoeStore/app/src/main/res/layout/fragment_add_shoe.xml" value="0.33" />
+        <entry key="..\:/Users/Marson/AndroidStudioProjects/ShoeStore/app/src/main/res/layout/fragment_shoe_list.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Marson/AndroidStudioProjects/ShoeStore/app/src/main/res/layout/item_shoe.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/Marson/AndroidStudioProjects/ShoeStore/app/src/main/res/menu/top_menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
